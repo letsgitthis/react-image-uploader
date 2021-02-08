@@ -33,7 +33,7 @@
   margin-top: 1rem;
 }
 
-.img{
+#img{
   width: 600px;
   height: 600px;
   object-fit: cover;
@@ -58,4 +58,9 @@
   color: white;
   text-align: center;
   cursor: pointer;
+}
+
+.uploadedImage{
+  width: 600px;
+  height: 600px;
 }

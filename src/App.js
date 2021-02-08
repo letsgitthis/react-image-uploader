@@ -24,7 +24,7 @@ class App extends Component {
         <div className="container">
           <h1 className="heading">Add your image</h1>
           <div className="img-holder">
-            <img src={selectedImage} alt="" id="" className="" />
+            <img src={selectedImage} alt="" id="" className="uploadedImage" />
           </div>
           <input type="file" name="image-upload" id="input" accept="image/*" onChange={this.imageHandler} />
           <div className="label">
