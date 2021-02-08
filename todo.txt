@@ -1,6 +1,8 @@
 TODO
 
-Correct Styling so that uploaded image is not larger than border.
-Rebuild as component that can be used in other applications.
-Add feature that allows images to be uploaded as an array in a controlled 
+-Rebuild as component that can be used in other applications.
+
+-Set to store images in database.
+
+-Add feature that allows images to be uploaded as an array in a controlled 
 gallery, with the option to delete each individually.
