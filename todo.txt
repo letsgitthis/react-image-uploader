@@ -1,0 +1,4 @@
+TODO
+
+Correct Styling so that uploaded image is not larger than border.
+Rebuild as component that can be used in other applications
