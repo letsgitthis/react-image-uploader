@@ -1,5 +1,8 @@
 TODO
 
+-update styling to allow images to be appropriately proportional 
+without overlapping or exceeding a neccessary amount of space.
+
 -Rebuild as component that can be used in other applications.
 
 -Set to store images in database.
